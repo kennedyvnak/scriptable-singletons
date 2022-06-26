@@ -8,7 +8,7 @@ Scriptable singletons is a project that uses the Unity Addressables System to ha
 
 This project contains a useful editor window. Here you can see all issues on singletons.
 
-![EditorWindow](Docs\ReadmeImages\EditorWindow.png)
+![EditorWindow](/Docs/ReadmeImages/EditorWindow.png)
 
 As you can see, there are 3 columns, one for the singleton status, one for the singleton type name and one for the instance path in the project.
 
@@ -20,7 +20,7 @@ In the status column, you can see 3 different cases:
 
 By clicking with the right button in any singleton view, you can see automatic solution for issues or utils functions.
 
-![RightClick](Docs\ReadmeImages\EditorWindow-RightClick.png)
+![RightClick](/Docs/ReadmeImages/EditorWindow-RightClick.png)
 
 - Create Instance: This option will be enabled if you do not have any singleton instance. It creates the singleton instance in the given path.
 - Select All Instance: This option selects all singleton instances in the editor.
